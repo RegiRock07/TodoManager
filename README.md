@@ -21,6 +21,10 @@ A sleek, modern **React + Vite** powered Todo App that lets you manage your task
 
 ---
 
+## 🚀 Live Demo
+
+You can check out the live version of the app here:  
+[🔗 View Live Todo App](todo-manager-five.vercel.app)
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Vite
