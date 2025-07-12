@@ -1,12 +1,46 @@
-# React + Vite
+# 📝 Todo Application (with Priority & Context API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern **React + Vite** powered Todo App that lets you manage your tasks with **Low / High priority**, built using **Context API** and styled with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add, Edit, Delete Todos
+- 🔁 Realtime state management using React Context API
+- 🎯 Priority selection: **Low 🔵** / **High 🔴**
+- 📊 Progress tracker (Total, Active, Completed)
+- 🎨 Dark-themed, animated, responsive UI with TailwindCSS
+- ⚡ Fast performance with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![App Screenshot](src/assets/Screenshot%202025-07-12%20220005.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite
+- **State Management:** React Context API
+- **Styling:** Tailwind CSS
+- **Icons:** Emoji & Tailwind utility classes
+
+---
+
+## 🚩 How to Run Locally
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/todo-context-app.git
+
+# 2. Move into project directory
+cd todo-context-app
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the app
+npm run dev
